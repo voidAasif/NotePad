@@ -37,7 +37,7 @@ class NotePad extends JFrame implements ActionListener {
         frame.setLocationRelativeTo(null);
 
         // Use a relative path for icon
-        ImageIcon icon = new ImageIcon("res/icon2.png"); 
+        ImageIcon icon = new ImageIcon("res/notepad.png"); 
         frame.setIconImage(icon.getImage());
         frame.setCursor(Cursor.HAND_CURSOR);
 
