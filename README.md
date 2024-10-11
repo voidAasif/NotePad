@@ -19,6 +19,9 @@ A simple and customizable Notepad application developed using Java Swing. This N
 - Java Development Kit (JDK 8 or higher)
 - An IDE like IntelliJ IDEA, Eclipse, or NetBeans, or simply use a text editor and run via the command line.
 
+### Screenshots
+![home](https://github.com/user-attachments/assets/fe93f9c6-762a-43b0-bc8f-8ba8110e6f13)
+
 ### Cloning the Repository
 
 Clone the repository to your local machine using the following command:
