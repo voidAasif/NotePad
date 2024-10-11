@@ -20,7 +20,23 @@ A simple and customizable Notepad application developed using Java Swing. This N
 - An IDE like IntelliJ IDEA, Eclipse, or NetBeans, or simply use a text editor and run via the command line.
 
 ### Screenshots
+- Home
 ![home](https://github.com/user-attachments/assets/fe93f9c6-762a-43b0-bc8f-8ba8110e6f13)
+
+- Open
+![open](https://github.com/user-attachments/assets/40df5843-3b59-49c2-bd3c-8b75947fe111)
+
+- File
+![file](https://github.com/user-attachments/assets/9725f1b7-da4d-462c-a8e0-e334a209139e)
+
+- Edit
+![edit](https://github.com/user-attachments/assets/4ce2628b-f70f-4a81-8959-fb73df20f1f2)
+
+- View
+![view](https://github.com/user-attachments/assets/029d81b0-d59e-4a31-9532-8186971ae1a2)
+
+- DarkMode
+![darkHome](https://github.com/user-attachments/assets/ba304499-8c62-40dc-9397-4fc4167e2143)
 
 ### Cloning the Repository
 
