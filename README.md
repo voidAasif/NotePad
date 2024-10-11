@@ -24,4 +24,4 @@ A simple and customizable Notepad application developed using Java Swing. This N
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/username/notepad-clone.git](https://github.com/voidAasif/NotePad.git)
+https://github.com/voidAasif/NotePad.git
